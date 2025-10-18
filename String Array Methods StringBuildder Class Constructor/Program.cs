@@ -7,6 +7,20 @@ namespace String_Array_Methods_StringBuildder_Class_Constructor
     {
         static void Main(string[] args)
         {
+            #region task 9
+            //Console.Write("vvedite stroku: ");
+            //string RandomText = Console.ReadLine();
+
+            //if (IsOnlyLetters(RandomText))
+            //{
+            //    Console.WriteLine("stroka iz bukv");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("stroka ne tolko iz bukv");
+            //}
+#endregion
+
             #region task6
             //string sentence = "Salam Hormetli Mushteri";
             //string [] words = sentence.Split(' ');
@@ -44,12 +58,24 @@ namespace String_Array_Methods_StringBuildder_Class_Constructor
         private static string ReverseStr(string word)
         {
             StringBuilder stringBuilder = new StringBuilder();
-            for (int i = word.Length-1; i >= 0; i--)
-            { 
-            stringBuilder.Append(word[i]);
+            for (int i = word.Length - 1; i >= 0; i--)
+            {
+                stringBuilder.Append(word[i]);
             }
             return stringBuilder.ToString();
         }
         #endregion
+        #region task 9
+        static bool IsOnlyLetters(string str)
+        {
+            foreach (char c in str)
+            {
+                if (!char.IsLetter(c))
+                    return false;
+            }
+            return true;
+            #endregion
+        }
+        
     }
 }
