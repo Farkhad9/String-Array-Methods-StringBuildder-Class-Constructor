@@ -7,6 +7,18 @@ namespace String_Array_Methods_StringBuildder_Class_Constructor
     {
         static void Main(string[] args)
         {
+            #region task7
+            //string word = "BakuBus";
+            //if (word.Length < 4)
+            //{
+            //    Console.WriteLine("slovo malenkoye");
+            //}
+            //else
+            //{
+            //    string newWord = word.Substring(0, 4);
+            //    Console.WriteLine(newWord);
+            //}
+            #endregion
             #region task5
             //string word = "Azerbaijan!";
             //Console.WriteLine(ReverseStr(word)); 

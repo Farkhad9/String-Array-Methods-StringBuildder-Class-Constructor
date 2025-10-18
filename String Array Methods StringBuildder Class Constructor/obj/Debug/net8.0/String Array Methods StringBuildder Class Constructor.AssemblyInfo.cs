@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("String Array Methods StringBuildder Class Constructor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed4f837c1dee491bd290e317207bbbae694c3a86")]
 [assembly: System.Reflection.AssemblyProductAttribute("String Array Methods StringBuildder Class Constructor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("String Array Methods StringBuildder Class Constructor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

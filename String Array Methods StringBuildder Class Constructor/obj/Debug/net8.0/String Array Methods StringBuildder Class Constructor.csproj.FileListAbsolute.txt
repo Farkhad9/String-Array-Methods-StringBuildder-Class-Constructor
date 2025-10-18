@@ -12,3 +12,4 @@ C:\Users\User\Desktop\String Array Methods StringBuildder Class Constructor\Stri
 C:\Users\User\Desktop\String Array Methods StringBuildder Class Constructor\String Array Methods StringBuildder Class Constructor\obj\Debug\net8.0\String Array Methods StringBuildder Class Constructor.pdb
 C:\Users\User\Desktop\String Array Methods StringBuildder Class Constructor\String Array Methods StringBuildder Class Constructor\obj\Debug\net8.0\String Array Methods StringBuildder Class Constructor.genruntimeconfig.cache
 C:\Users\User\Desktop\String Array Methods StringBuildder Class Constructor\String Array Methods StringBuildder Class Constructor\obj\Debug\net8.0\ref\String Array Methods StringBuildder Class Constructor.dll
+C:\Users\User\Desktop\String Array Methods StringBuildder Class Constructor\String Array Methods StringBuildder Class Constructor\obj\Debug\net8.0\String Array Methods StringBuildder Class Constructor.sourcelink.json
