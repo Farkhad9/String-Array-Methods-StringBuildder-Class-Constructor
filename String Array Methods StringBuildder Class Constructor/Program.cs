@@ -6,7 +6,15 @@ namespace String_Array_Methods_StringBuildder_Class_Constructor
     internal class Program
     {
         static void Main(string[] args)
-        {
+        {  
+
+            #region task8
+            Console.Write("введите свою почту: ");
+             string gmail = Console.ReadLine();
+            int index = gmail.IndexOf('@');
+            string domain = gmail.Substring(index + 1);
+            Console.WriteLine(domain);
+#endregion
             #region task7
             //string word = "BakuBus";
             //if (word.Length < 4)
